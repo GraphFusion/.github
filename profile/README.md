@@ -59,6 +59,7 @@ The architecture of GraphFusion is modular and scalable, designed for easy deplo
    - RESTful and GraphQL APIs for seamless integration into third-party systems.
    - Designed to support easy querying, data insertion, and system control.
 
+![architecture](https://github.com/user-attachments/assets/bb158f28-d840-41c9-b272-4e24c82380f5)
 
 ---
 
