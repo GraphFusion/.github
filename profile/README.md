@@ -59,7 +59,57 @@ The architecture of GraphFusion is modular and scalable, designed for easy deplo
    - RESTful and GraphQL APIs for seamless integration into third-party systems.
    - Designed to support easy querying, data insertion, and system control.
 
-![Architecture Diagram](assets/architecture.png)
+flowchart TB
+ subgraph subGraph0["Input Layer"]
+        P["Data Preprocessor"]
+        I["Input Data"]
+        V["Input Validator"]
+  end
+ subgraph subGraph1["Memory Processing"]
+        CO["Context Optimizer"]
+        KG["Knowledge Graph"]
+        RM["Relationship Manager"]
+        n1["Untitled Node"]
+  end
+ subgraph subGraph2["Memory Network Layer"]
+        NM["Neural Memory Cells"]
+        CM["Confidence Module"]
+        subGraph1
+  end
+ subgraph subGraph3["Integration Layer"]
+        AP["API Gateway"]
+        QE["Query Engine"]
+        ME["Memory Engine"]
+        AE["Analytics Engine"]
+  end
+ subgraph subGraph4["Output Layer"]
+        R["Response Generator"]
+        O["Output Handler"]
+  end
+ subgraph Monitoring["Monitoring"]
+        M["Metrics Collector"]
+        A["Analytics Dashboard"]
+        L["Learning Optimizer"]
+  end
+    I --> P
+    P --> V
+    V --> NM
+    NM <--> KG & CM
+    KG <--> CO & RM
+    NM --> AP
+    AP --> QE & ME & AE
+    QE --> R
+    ME --> R
+    AE --> R
+    R --> O
+    O --> M
+    M --> A & L
+    L --> NM
+    KG --> n1
+
+
+
+
 
 ---
 
