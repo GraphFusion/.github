@@ -1,5 +1,6 @@
-# GraphFusion
 ![graph-fusion-logo](https://github.com/user-attachments/assets/f5888c55-330d-412c-b0ec-7e6aabbc32a8)
+
+# GraphFusion
 
 Welcome to **GraphFusion**, a pioneering platform leveraging Neural Memory Networks and Knowledge Graphs to transform decision-making across industries. GraphFusion provides adaptive, intelligent decision support through real-time learning, self-healing data structures, and confidence-scored insights.
 
