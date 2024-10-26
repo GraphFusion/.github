@@ -61,6 +61,43 @@ The architecture of GraphFusion is modular and scalable, designed for easy deplo
 
 ![architecture](https://github.com/user-attachments/assets/bb158f28-d840-41c9-b272-4e24c82380f5)
 
+## Component Description
+
+**Input Layer**
+
+- Input Data: Raw data ingestion
+- Data Preprocessor: Data cleaning and formatting
+- Input Validator: Data validation and verification
+
+
+**Memory Network Layer**
+
+- Neural Memory Cells: Core memory processing
+- Knowledge Graph: Relationship and context storage
+- Confidence Module: Reliability scoring
+- Context Optimizer: Memory optimization
+- Relationship Manager: Graph relationship handling
+
+
+**Integration Layer**
+
+- API Gateway: External interface management
+- Query Engine: Query processing and optimization
+- Memory Engine: Memory operations handling
+- Analytics Engine: Data analysis processing
+
+
+**Output Layer**
+
+- Response Generator: Result compilation
+- Output Handler: Response formatting and delivery
+
+
+**Monitoring System**
+
+- Metrics Collector: System performance monitoring
+- Analytics Dashboard: Visualization and reporting
+- Learning Optimizer: System optimization
 ---
 
 ## Installation
