@@ -1,6 +1,6 @@
 # GraphFusion
 
-**Welcome to GraphFusion, a pioneering platform leveraging Neural Memory Networks and Knowledge Graphs to transform decision-making across industries. GraphFusion provides adaptive, intelligent decision support through real-time learning, self-healing data structures, and confidence-scored insights.**
+Welcome to **GraphFusion**, a pioneering platform leveraging Neural Memory Networks and Knowledge Graphs to transform decision-making across industries. GraphFusion provides adaptive, intelligent decision support through real-time learning, self-healing data structures, and confidence-scored insights.
 
 ---
 
