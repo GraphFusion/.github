@@ -59,6 +59,7 @@ The architecture of GraphFusion is modular and scalable, designed for easy deplo
    - RESTful and GraphQL APIs for seamless integration into third-party systems.
    - Designed to support easy querying, data insertion, and system control.
 
+```mermaid
 flowchart TB
  subgraph subGraph0["Input Layer"]
         P["Data Preprocessor"]
@@ -107,9 +108,7 @@ flowchart TB
     L --> NM
     KG --> n1
 
-
-
-
+    ```
 
 ---
 
