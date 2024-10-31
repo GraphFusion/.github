@@ -63,24 +63,6 @@ The architecture of GraphFusion is modular and scalable, designed for easy deplo
 
 ![architecture](https://github.com/user-attachments/assets/bb158f28-d840-41c9-b272-4e24c82380f5)
 
-The diagram shows:
-
-1. **Client Layer**: Shows how external applications interact through REST and GraphQL APIs.
-
-2. **Core System**:
-   - Neural Memory Network (NMN) with Memory Manager, Learning Adapter, and Persistent Queue
-   - Knowledge Graph Manager (KGM) with Graph Engine, Relationship Indexer, and Query Optimizer
-   - Confidence Scoring Engine (CSE) with Confidence Scorer and Validation Agent
-   - Self-Healing Mechanism (SHM) with Error Monitor, Consistency Handler, and Update Processor
-
-3. **Storage Layer**: Shows Neo4j database and caching system integration
-
-The color coding helps distinguish between:
-- Green: Client interfaces
-- Blue: Core components
-- Light blue: Sub-components
-- Gray: Storage systems
-
 ## Competitive Advantages
 
 GraphFusion provides significant competitive advantages over traditional Knowledge Bases (KBs) and current Language Models (LLMs):
