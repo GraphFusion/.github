@@ -217,24 +217,4 @@ For any questions, collaboration inquiries, or feedback, please reach out:
 - Email: info@GraphFusion.onmicrosoft.com
 - Website: [https://graphfusion.github.io/graphfusion.io/](https://graphfusion.github.io/graphfusion.io/)
 
-
-The diagram shows:
-
-1. **Client Layer**: Shows how external applications interact through REST and GraphQL APIs.
-
-2. **Core System**:
-   - Neural Memory Network (NMN) with Memory Manager, Learning Adapter, and Persistent Queue
-   - Knowledge Graph Manager (KGM) with Graph Engine, Relationship Indexer, and Query Optimizer
-   - Confidence Scoring Engine (CSE) with Confidence Scorer and Validation Agent
-   - Self-Healing Mechanism (SHM) with Error Monitor, Consistency Handler, and Update Processor
-
-3. **Storage Layer**: Shows Neo4j database and caching system integration
-
-The color coding helps distinguish between:
-- Green: Client interfaces
-- Blue: Core components
-- Light blue: Sub-components
-- Gray: Storage systems
----
-
 Thank you for visiting the GraphFusion repository! We’re excited to have you join us on our journey to revolutionize intelligent decision support across industries.
