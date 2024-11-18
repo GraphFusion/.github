@@ -381,7 +381,7 @@ Below is an abstract description of the architecture flow:
 ```
 +---------------------+
 |    Raw Data         |  --->  Pre-processing  --->  Embedding Layer  --->  [Neural Memory Network] --->  Updated Knowledge Graph
-+---------------------+            ^                                 |                   |              |
++---------------------+            ^                                  |                   |              |
                                +-------------+                        |                   |              |
                                | Context Data|                        v                   v              v
                                +-------------+                    Query Layer          Inference       Export
