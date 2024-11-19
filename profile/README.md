@@ -1,5 +1,6 @@
-![graph-fusion-logo](https://github.com/user-attachments/assets/f5888c55-330d-412c-b0ec-7e6aabbc32a8)
-
+<div align="center">
+  <img src="assets/graphfusion-logo.svg" alt="GraphFusion Logo" width="200" height="200">
+</div>
 # Welcome to GraphFusion
 
 GraphFusion is an open-source organization committed to redefining AI solutions by combining **Neural Memory Networks (NMNs)** and **Knowledge Graphs**. We empower businesses and developers to harness the power of intelligent, context-aware systems that learn, evolve, and adapt over time.
