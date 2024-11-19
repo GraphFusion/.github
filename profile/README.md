@@ -60,7 +60,8 @@ As part of the **Microsoft for Startups Founders Hub**, we can:
 
 This partnership enhances our ability to provide innovative AI tools and services to businesses and developers worldwide.
 
-![Microsoft for Startups Badge](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Microsoft_for_Startups_Badge.svg/600px-Microsoft_for_Startups_Badge.svg.png)
+ <img width="393" alt="MS_Startups_Celebration_Badge_Dark" src="https://github.com/user-attachments/assets/45d35520-1016-47fa-844d-93f89745b598">
+
 
 ## **Core Values**
 
