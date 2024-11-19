@@ -1,5 +1,48 @@
 <div align="center">
-  <img src="assets/graphfusion-logo.svg" alt="GraphFusion Logo" width="200" height="200">
+<svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circles (nodes) -->
+  <circle cx="200" cy="100" r="40" fill="#0066FF" opacity="0.9">
+    <animate attributeName="opacity" values="0.7;0.9;0.7" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="100" cy="300" r="40" fill="#0066FF" opacity="0.9">
+    <animate attributeName="opacity" values="0.9;0.7;0.9" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="300" cy="300" r="40" fill="#0066FF" opacity="0.9">
+    <animate attributeName="opacity" values="0.8;1;0.8" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Inner circles (neural nodes) -->
+  <circle cx="200" cy="100" r="20" fill="white"/>
+  <circle cx="100" cy="300" r="20" fill="white"/>
+  <circle cx="300" cy="300" r="20" fill="white"/>
+  
+  <!-- Connecting lines -->
+  <line x1="200" y1="100" x2="100" y2="300" stroke="#0066FF" stroke-width="8"/>
+  <line x1="200" y1="100" x2="300" y2="300" stroke="#0066FF" stroke-width="8"/>
+  <line x1="100" y1="300" x2="300" y2="300" stroke="#0066FF" stroke-width="8"/>
+  
+  <!-- Pulse animations along the lines -->
+  <circle r="6" fill="white" opacity="0.7">
+    <animateMotion 
+      path="M200,100 L100,300"
+      dur="2s"
+      repeatCount="indefinite"/>
+  </circle>
+  
+  <circle r="6" fill="white" opacity="0.7">
+    <animateMotion 
+      path="M200,100 L300,300"
+      dur="2s"
+      repeatCount="indefinite"/>
+  </circle>
+  
+  <circle r="6" fill="white" opacity="0.7">
+    <animateMotion 
+      path="M100,300 L300,300"
+      dur="2s"
+      repeatCount="indefinite"/>
+  </circle>
+</svg>  
 </div>
 # Welcome to GraphFusion
 
