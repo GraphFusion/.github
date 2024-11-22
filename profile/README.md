@@ -86,7 +86,7 @@ print("Knowledge Graph:", graph)
 
 ## 📚 Documentation  
 
-Find the full documentation [here](https://docs.graphfusion.io).  
+Find the full documentation [here](https://github.com/GraphFusion/GraphFusion-NMN/blob/main/documentation.md).  
 
 ## 🤝 Contributing  
 
