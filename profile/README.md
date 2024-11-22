@@ -1,5 +1,3 @@
-![GraphFusion Logo](https://github.com/user-attachments/assets/f5888c55-330d-412c-b0ec-7e6aabbc32a8)
-
 # GraphFusion AI  
 
 Welcome to **GraphFusion AI** – an open-source project revolutionizing the way we build, manage, and utilize Neural Memory Networks (NMNs). By combining dynamic knowledge graphs with cutting-edge machine learning, GraphFusion AI enables systems to learn, adapt, and make decisions in real-time.  
