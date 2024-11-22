@@ -96,6 +96,11 @@ We welcome contributions from the community! Check out our [Contribution Guide](
 
 GraphFusion AI is licensed under the MIT License. See the [LICENSE](https://github.com/GraphFusion/GraphFusion/blob/main/LICENSE) file for details.  
 
+## 🚀 We’re Part of Microsoft for Startups Founders Hub  
+
+GraphFusion AI is proud to be part of the **Microsoft for Startups Founders Hub**, a platform designed to support innovative startups with resources and mentorship.  
+
+![graphfusion_celebration_image](https://github.com/user-attachments/assets/176db5f8-bd10-4eb8-9418-2bbe6f407ff9)  
 
 ## 💻 Connect With Us  
 
@@ -106,9 +111,5 @@ GraphFusion AI is licensed under the MIT License. See the [LICENSE](https://gith
 📧 **For inquiries**: **Korir@GraphFusion.onmicrosoft.com**  
 
 
-## 🚀 We’re Part of Microsoft for Startups Founders Hub  
 
-GraphFusion AI is proud to be part of the **Microsoft for Startups Founders Hub**, a platform designed to support innovative startups with resources and mentorship.  
-
-![graphfusion_celebration_image](https://github.com/user-attachments/assets/176db5f8-bd10-4eb8-9418-2bbe6f407ff9)  
 
