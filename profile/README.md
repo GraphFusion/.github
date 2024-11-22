@@ -94,7 +94,7 @@ We welcome contributions from the community! Check out our [Contribution Guide](
 
 ## 📜 License  
 
-GraphFusion AI is licensed under the MIT License. See the [LICENSE](https://github.com/GraphFusion/GraphFusion/blob/main/LICENSE) file for details.  
+GraphFusion AI is licensed under the MIT License. See the [LICENSE](https://github.com/GraphFusion/GraphFusion-NMN/blob/main/LICENSE) file for details.  
 
 ## 🚀 We’re Part of Microsoft for Startups Founders Hub  
 
