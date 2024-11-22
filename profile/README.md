@@ -53,7 +53,7 @@ print(response)  # Output: "An open-source library for Neural Memory Networks."
 Here’s how GraphFusion AI can transform education:  
 
 ```python  
-from sdk.graphfusion import GraphFusion  
+from graphfusion.sdk import GraphFusion  
 
 # Initialize for student data analysis  
 fusion = GraphFusion(input_size=64, hidden_size=128)  
