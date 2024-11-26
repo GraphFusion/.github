@@ -24,18 +24,23 @@ GraphFusion AI bridges the gap between traditional knowledge graphs and advanced
 
 ### Installation  
 
-Install GraphFusion AI via `pip`:  
+As GraphFusion AI is currently in pre-release, installation requires cloning the repository and using ``pip install -e.``:  
 
-```bash  
-pip install graphfusion  
-```  
-
+### 1. Clone the repository:
+```bash
+git clone https://github.com/GraphFusion/GraphFusion-NMN.git
+cd GraphFusion-NMN
+```
+### 2. Install in editable mode:
+```bash
+pip install -e .
+```
 ### Quick Start  
 
 Create, query, and explore a Neural Memory Network in just a few lines:  
 
 ```python  
-from graphfusion import NeuralMemoryNetwork  
+from sdk.graphfusion import NeuralMemoryNetwork  
 
 # Create a memory network  
 memory_network = NeuralMemoryNetwork()  
@@ -94,7 +99,7 @@ We welcome contributions from the community! Check out our [Contribution Guide](
 
 ## 📜 License  
 
-GraphFusion AI is licensed under the MIT License. See the [LICENSE](https://github.com/GraphFusion/GraphFusion-NMN/blob/main/LICENSE) file for details.  
+GraphFusion AI is licensed under the Apache2.0 License. See the [LICENSE](https://github.com/GraphFusion/GraphFusion-NMN/blob/main/LICENSE) file for details.  
 
 ## 🚀 We’re Part of Microsoft for Startups Founders Hub  
 
