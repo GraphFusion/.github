@@ -10,7 +10,7 @@ GraphFusion AI is proud to be part of the **Microsoft for Startups Founders Hub*
 
 - **Website**: [https://graphfusion.github.io/graphfusion.io/](https://graphfusion.github.io/graphfusion.io/)  
 - **Email**: hello@GraphFusion.onmicrosoft.com  
-- **Community Forum**: [GraphFusion Community Discord](https://discord.gg/zK94WvRjZT)  
+- **Community Forum**: [GraphFusion Community Discord](https://discord.com/invite/zK94WvRjZT)  
 
 📧 **For inquiries**: **hello@GraphFusion.onmicrosoft.com**  
 
